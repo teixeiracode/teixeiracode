@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Renan Teixeira 🚀
 
-## Olá! Eu sou o Renan Teixeira 🚀
-
 - 📊 Hoje estudo e construo projetos na área de **Dados**
 - 🐍 Aprendendo **Python** (Pandas, ETL, automações)
 - 🗄️ Praticando **SQL** e modelagem de dados
@@ -10,7 +8,7 @@
 - 🔧 Caminho para me tornar **Engenheiro de Dados**
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanteixeira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanteixeira)](https://github.com/teixeiracode/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
