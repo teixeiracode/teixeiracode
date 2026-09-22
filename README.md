@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -32,50 +32,70 @@
 
 </div>
 
+###
+
+<h1 align="center">Hello, Welcome to My Profile 👋</h1>
 
 ###
 
-<h1 align="center">Olá Bem-vindo ao Meu Perfil 👋</h1>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mim </h3>
+<p align="left">
+  I'm <strong>Renan Teixeira</strong>, an <strong>ADS student</strong> focused on starting my career in the <strong>Data field</strong>.<br>
+  I'm currently learning <strong>Python, SQL, Power BI and AWS</strong>, building projects to grow towards <strong>Data Engineering</strong>.<br>
+  I'm also passionate about <strong>Cybersecurity</strong> and <strong>Cloud Computing</strong>, always exploring how to combine data, security and cloud technologies.
+</p>
 
 ###
 
-<p align="left">Sou Renan Teixeira, estudante de ADS e focado em iniciar minha carreira na área de Dados.<br>Estou aprendendo Python, SQL, Power BI e AWS, criando projetos para evoluir rumo à Engenharia de Dados.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">☁️ Cloud & 🔐 Cybersecurity</h3>
 
 ###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img width="12" />
+  
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=teixeiracode&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+    src="https://streak-stats.demolab.com?user=teixeiracode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
     height="220" 
-    alt="gráfico de sequência"
+    alt="streak graph"
   />
 </div>
